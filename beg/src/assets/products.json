@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 59.99,
+      "description": "High-quality wireless earbuds with noise cancellation.",
+      "image": "http://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=2f793881435d5d9c2674572705273ba5",
+      "stock": 25
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 699.99,
+      "description": "Latest model smartphone with 128GB storage.",
+      "image": "https://media.ldlc.com/ld/products/00/05/88/62/LD0005886202_1.jpg",
+      "stock": 15
+    },
+    {
+      "id": "3",
+      "name": "Leather Jacket",
+      "category": "Apparel",
+      "price": 149.99,
+      "description": "Genuine leather jacket with a sleek design.",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.1jQFwzlSeQLhB3oU-qxk_wHaIr&pid=Api&P=0&h=180",
+      "stock": 10
+    },
+    {
+      "id": "4",
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 89.99,
+      "description": "Comfortable running shoes with excellent cushioning.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.nuEfzOXLoJ1XPEKe69oOkwAAAA&pid=Api&P=0&h=180",
+      "stock": 30
+    },
+    {
+      "id": "5",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 39.99,
+      "description": "Portable Bluetooth speaker with deep bass.",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.ME7w8biTCoGCGAD20L1S6wHaHX&pid=Api&P=0&h=180",
+      "stock": 40
+    },
+    {
+      "id": "6",
+      "name": "Organic Cotton T-Shirt",
+      "category": "Apparel",
+      "price": 24.99,
+      "description": "Soft and eco-friendly organic cotton t-shirt.",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.VLkh7wylAArzWf4Cb1VerQHaHa&pid=Api&P=0&h=180",
+      "stock": 50
+    },
+    {
+      "id": "7",
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 199.99,
+      "description": "Smart watch with fitness tracking and notifications.",
+      "image": "https://tse4.mm.bing.net/th?id=OIP._VDWi4DvrVMLc3IWkK9xYAHaHa&pid=Api&P=0&h=180",
+      "stock": 20
+    },
+    {
+      "id": "8",
+      "name": "Stainless Steel Water Bottle",
+      "category": "Accessories",
+      "price": 29.99,
+      "description": "Durable stainless steel water bottle with a leak-proof lid.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.hy8yeEt8bXC4CSa4nbEGZwHaJC&pid=Api&P=0&h=180",
+      "stock": 35
+    },
+    {
+      "id": "9",
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "price": 499.99,
+      "description": "High-resolution digital camera with various shooting modes.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.FMwWdTulrv36Wf022uD-NQHaHa&pid=Api&P=0&h=180",
+      "stock": 12
+    },
+    {
+      "id": "10",
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": 34.99,
+      "description": "Non-slip yoga mat with extra cushioning.",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.iBzXi-3DRVXkUkOb51VU2QHaEK&pid=Api&P=0&h=180",
+      "stock": 45
+    }
+  ]
+}
